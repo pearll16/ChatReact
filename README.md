@@ -39,11 +39,6 @@ Chat app is a real-time chat application where user can do group chatting. User 
 - Display chat send time
 - View user status (like if user is online or offlinne and last online time)
 - View user information
-
-## Author
-
-- [Manish Tiwari](https://linkedin.com/in/wdmanisht)
-
 ## Screenshots
 
 ### Signin page
@@ -65,9 +60,3 @@ Chat app is a real-time chat application where user can do group chatting. User 
 ### Chat
 
 ![chat-page](https://user-images.githubusercontent.com/46663132/202083172-3ed644aa-ebdf-428f-9dd4-8c865fe640e6.png)
-
-*If you liked my project feel free give it a star*
-
-*Thank you*
-
-*Manish Tiwari*
