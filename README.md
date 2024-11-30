@@ -45,10 +45,6 @@ Chat app is a real-time chat application where user can do group chatting. User 
 
 ![Login-page](https://user-images.githubusercontent.com/46663132/202082943-0ea8cbfe-e3d4-4dbf-adb0-80e8156fe3f8.png)
 
-### Google signin modal
-
-![google-login](https://user-images.githubusercontent.com/46663132/202083059-95cbd0a1-67ff-460f-8967-0d903465d659.png)
-
 ### Home
 
 ![home](https://user-images.githubusercontent.com/46663132/202083004-c7cc39fa-09f9-4556-990c-2d8b265f4adc.png)
